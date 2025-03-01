@@ -14,4 +14,20 @@
 [09]: Website information
 ```
 
+### Installation
+
+**1. Clone the repository:**
+
+```
+git clone https://github.com/jokeruhq/joker-osint && cd joker-osint
+```
+
+**2. Install the dependencies:**
+
+```
+pip install -r requirements.txt
+```
+
+**3. **
+
 ![{BBE89E64-DD69-40F9-A000-EFFF8FB8BCB4}](https://github.com/user-attachments/assets/cabdc78d-f5cb-4d46-a0dc-eafd05336b54)
